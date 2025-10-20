@@ -59,12 +59,14 @@ header {
 .imagem {
     display: flex;
     justify-content: flex-end;
-    height: 615px;
+    height: 700px;
+    position: relative;
 }
 
 .imagem1 {
-    margin-top: -10px;
     margin-right: 40px;
+    position: relative;
+    top: -350px;
 }
 
 .texto-principal {
@@ -80,4 +82,5 @@ header {
     word-break: break-all;
     width: 200px;
 }
+
 
